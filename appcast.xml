@@ -3,11 +3,11 @@
     <channel>
         <title>TuluBook Updates</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <sparkle:releaseNotesLink>https://tuluglobal-hue.github.io/tulubook-updates/</sparkle:releaseNotesLink>
-            <pubDate>Mon, 25 May 2026 15:30:00 +0530</pubDate>
-            <enclosure url="https://github.com/tuluglobal-hue/tulubook-updates/releases/download/v1.0.3/TuluBook-x86_64-1.0.3-Installer.exe"
-                       sparkle:version="1.0.3"
+            <pubDate>Thu, 25 Jun 2026 12:53:52 +0530</pubDate>
+            <enclosure url="https://github.com/tuluglobal-hue/tulubook-updates/releases/download/v1.0.4/TuluBook-x86_64-1.0.4-Installer.exe"
+                       sparkle:version="1.0.4"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream" />
